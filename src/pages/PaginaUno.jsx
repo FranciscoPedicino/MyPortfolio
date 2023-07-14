@@ -1,5 +1,6 @@
 import yo from "../../public/image/francisco.png"
 const PaginaUno = () => {
+
   return (
     <div className="bg-white text-white h-full flex ">
 
@@ -41,3 +42,5 @@ const PaginaUno = () => {
 };
 
 export default PaginaUno;
+
+   
