@@ -2,7 +2,6 @@ import yo from "../../public/image/francisco.png"
 const PaginaUno = () => {
   return (
     <div className="bg-white text-white h-full flex ">
-
       <div className=" w-[30%] h-full  flex items-end">
         <img className="h-[30rem] w-full flex rounded-xl " src={yo} alt="" />
       </div>
